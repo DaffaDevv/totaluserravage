@@ -1,6 +1,6 @@
 {
   "Sc Ravage V5 Vip!": {
-    "total yang telah menggunakan": 255,
+    "total yang telah menggunakan": 256,
     "data": [
       {
         "nomor": "6283188255620",
@@ -1021,6 +1021,10 @@
       {
         "nomor": "6283861348872",
         "login": "2025-06-29 03:23"
+      },
+      {
+        "nomor": "6282241726049",
+        "login": "2025-06-29 03:24"
       }
     ]
   }
